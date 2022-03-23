@@ -1,3 +1,5 @@
+// -*- mode: jsonc -*-
+// vi: set ft=jsonc :
 {
   "definitions": {
     "parameter": {
